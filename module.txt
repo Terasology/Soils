@@ -1,7 +1,9 @@
 {
     "id" : "Soils",
     "version" : "0.1.0",
-    "displayName" : "Soil Pack",
     "author" : "Metouto (fancy), Eleazzaar (matrix soils under auto)",
-    "description" : "This module introduces a number of new soil types"
+    "displayName" : "Soil Pack",
+    "description" : "This module introduces a number of new soil types",
+    "dependencies" : [],
+    "isServerSideOnly" : false
 }
