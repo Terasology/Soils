@@ -1,7 +1,7 @@
 {
     "id": "Soils",
     "version": "1.0.0",
-    "author": "Metouto (fancy), Eleazzaar (matrix soils under auto)",
+    "author": "Metouto, Eleazzaar",
     "displayName": "Soil Pack",
     "description": "This module introduces a number of new soil types",
     "dependencies": [
