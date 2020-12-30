@@ -1,12 +1,15 @@
 {
-    "id": "Soils",
-    "version": "1.0.0",
-    "author": "Metouto, Eleazzaar",
-    "displayName": "Soil Pack",
-    "description": "This module introduces a number of new soil types",
-    "dependencies": [
-        { "id": "CoreAssets", "minVersion": "2.0.1" }
-    ],
-    "isServerSideOnly": false,
-    "isAsset": true
+  "id": "Soils",
+  "version": "1.1.0-SNAPSHOT",
+  "author": "Metouto, Eleazzaar",
+  "displayName": "Soil Pack",
+  "description": "This module introduces a number of new soil types",
+  "dependencies": [
+    {
+      "id": "CoreAssets",
+      "minVersion": "2.0.1"
+    }
+  ],
+  "isServerSideOnly": false,
+  "isAsset": true
 }
